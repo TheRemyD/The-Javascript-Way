@@ -30,7 +30,7 @@ This is my repo for how I solved the tasks of [The JavaScript Way](https://githu
 -[Chapter 23](#)\
 -[Chapter 24](#)\
 -[Chapter 25](#)\
--[Chapter 26](#)\
+-[Chapter 26](#)
 
 ---
 ### I do not own the rights to [The JavaScript Way](https://github.com/thejsway/thejsway). Please go to their repository and buy them a coffee!
